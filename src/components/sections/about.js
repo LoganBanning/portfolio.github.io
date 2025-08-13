@@ -126,15 +126,12 @@ const About = () => {
   }, []);
 
   const skills = [
-    'OWASP Top 10',
-    'API Pentesting',
-    'Web App Pentesting',
-    'Network Pentesting',
-    'Python',
-    'Bash Scripting',
-    'Metasploit',
-    'Burp Suite',
-    'More',
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'SQL',
+    'C#',
+    'Node.js',
   ];
 
   return (
@@ -145,23 +142,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hi! I'm Bibek Neupane; an aspiring Hacker, a Web Application Pentester, a part-time Bug Bounty Hunter, and a
-              lifelong learner with a keen enthusiasm for Offensive Security.
+            Hi! I'm Logan Banning.  I have been coding for 5 years now, 2 years professionally.
             </p>
             <p>
-              Modifying coins in android games was fun but I've never imagined the path that single
-              moment would lead me to. Now I know it's more than just fun to hack into things that
-              lives on the internet.
-            </p>
-            <p>
-            Fast-forward to today, and I’ve had the privilege of volunteering at{' '}
-            <a href="https://gajabaar.io/" target="_blank" rel="noreferrer">
-              Gajabaar: an InfoSecurity Mentorship Program
-              </a> as a&nbsp; 
-              <a href="#about"><i>Teaching</i></a> <a href="#about"><i>Assistant</i></a>. Currently, I'm working as a <a href="#about"><i>Security Analyst</i></a> at{' '}
-        <a href="https://cynicaltechnology.com/" target="_blank" rel="noreferrer">
-          Cynical Technology
-          </a>,&nbsp;where I focus on Web Application Security & VAPT.
+              I currently work with mostly HTML, CSS, T SQL, JavaScript and C#.  I do fullstack development 
+              and do everything from fix bugs/issues to implementing new functionality across our site.
             </p>
             <p>Here are my few skills:</p>
           </div>

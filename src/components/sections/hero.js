@@ -59,25 +59,17 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi! I’m</h1>;
-  const two = <h2 className="big-heading">Bibek Neupane.</h2>;
-  const three = <h3 className="big-heading">I try to secure the internet.</h3>;
+  const two = <h2 className="big-heading">Logan Banning</h2>;
+  const three = <h3 className="big-heading">Fullstack Web Developer</h3>;
   const four = (
     <>
       <p>
-      I’m a high school graduate with a keen enthusiasm for Offensive Security, particularly web application security. I love doing Web-Application VAPT and Bug Bounty. Check out my profile at{' '}
-        <a href="https://yeswehack.com/hunters/nb1b3k" target="_blank" rel="noreferrer">
-          YesWeHack&nbsp;
-        </a>
-        and{' '}
-        <a href="https://tryhackme.com/p/.nb1b3k" target="_blank" rel="noreferrer">
-          TryHackMe
-        </a>
-        .
+      I got a Certificate of Completion from DevMountain and work full time as a fullstack web developer.  I work on one of our biggest contracts fixing issues and implementing new features.
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="https://drive.google.com/file/d/1nDlwlMicX6ZYxqL_jSeRlkOCWou2Hkey/view?usp=sharing" target="_blank" rel="noreferrer">
+    <a className="email-link" href="https://drive.google.com/file/d/1bZpxfqZ8DlysMe9ioI8Grl8LA_tQEe81/view?usp=sharing" target="_blank" rel="noreferrer">
       Check out my Resume!
     </a>
   );

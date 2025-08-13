@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-      I'm not actively seeking new opportunities at the moment, but if you have any questions or would like to discuss topics related to Cybersecurity, Penetration Testing, or Bug Hunting, feel free to reach out to me anytime. My inbox is always open!
+      I am actively looking for new opportunities and would like to find something where I could further my React skills.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
