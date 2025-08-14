@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'bneupane705@gmail.com',
+  email: 'loganbanning2@gmail.com',
 
   socialMedia: [
     {
@@ -22,7 +22,7 @@ module.exports = {
       url: '/#certs',
     },
     {
-      name: 'Acknowledgements',
+      name: 'Projects',
       url: '/#acknowledgements',
     },
     {
