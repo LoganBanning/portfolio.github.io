@@ -47,7 +47,7 @@ const mixins = {
     &:hover,
     &:active,
     &:focus {
-      color: var(--green);
+      color: #212529;
       outline: 0;
     }
   `,
@@ -58,17 +58,17 @@ const mixins = {
     text-decoration-skip-ink: auto;
     position: relative;
     transition: var(--transition);
-    color: var(--green);
+    color: white;
     &:hover,
     &:focus,
     &:active {
-      color: var(--green);
+      color: white;
       outline: 0;
       &:after {
         width: 100%;
       }
       & > * {
-        color: var(--green) !important;
+        color: white !important;
         transition: var(--transition);
       }
     }
@@ -79,7 +79,7 @@ const mixins = {
       height: 1px;
       position: relative;
       bottom: 0.37em;
-      background-color: var(--green);
+      background-color: #212529;
       transition: var(--transition);
       opacity: 0.5;
     }
